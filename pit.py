@@ -12,5 +12,5 @@ if income <= 85528:
     else:
         print("The tax is: ", tax, "thalers")
 else:
-    tax = round((((income - 85528) * 32/100) + 14839.02, 0)
-        print("The tax is:", tax, "thalers")
+    tax = round(((income - 85528) * 32/100) + 14839.02, 0)
+    print("The tax is:", tax, "thalers")
